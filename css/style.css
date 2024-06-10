@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+}
+
+.movie img {
+  height: 25rem;
+  object-fit: cover;
+}
+
+.movie figcaption {
+  bottom: 5%;
+  width: 90%;
+  left: 5%;
+}
+
+#lighthouse {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.main-image {
+  width: 70%;
+  height: 60vh;
+  /* background-image: url("../fruity_candy/505.jfif"); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
